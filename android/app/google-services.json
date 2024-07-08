@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "315776637831",
+    "firebase_url": "https://dars6-b0f9a-default-rtdb.firebaseio.com",
+    "project_id": "dars6-b0f9a",
+    "storage_bucket": "dars6-b0f9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315776637831:android:2e1cdc6f46d9e5bcfa5122",
+        "android_client_info": {
+          "package_name": "com.example.dars_5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgAESglbaU94Z6JI4NImzqCZMuEWIgCdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
